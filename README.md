@@ -1,16 +1,15 @@
-### Hi there 👋
+Hi there, I'm Sagor - Owner of <a href="https://codingspoint.com/"> CodingsPoint </a> 👋
 
-<!--
-**srsagor007/srsagor007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<ul>
+<li>🔭 Hi, I’m @srsagor007</li>
+<li>🌱 I’m currently learning and working on Vue js 🤣</li>
+<li>👯 I’m looking to collaborate some big projects</li>
+<li>🥅 2022 Goals: Contribute to Open Source projects</li>
+<li>⚡ Fun fact: I love to learn history</li>
+</ul>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3>Some Blog</h3>
+<ul>
+<li > <a href="https://codingspoint.com/laravel-8-toastr-notifications-using-yoeunes-toastr-package/"> Laravel 8 Toastr Notifications using yoeunes/toastr package </a> </li>
+</ul>
