@@ -12,4 +12,6 @@ Hi there, I'm Sagor - Owner of <a href="https://codingspoint.com/"> CodingsPoint
 <h3>Some Blog</h3>
 <ul>
 <li > <a href="https://codingspoint.com/laravel-8-toastr-notifications-using-yoeunes-toastr-package/"> Laravel 8 Toastr Notifications using yoeunes/toastr package </a> </li>
+<li > <a href="https://codingspoint.com/how-to-create-multi-level-dynamic-menu-treeview-in-laravel/"> How to Create Multi Level Dynamic Menu Treeview In Laravel?
+ </a> </li>
 </ul>
